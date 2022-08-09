@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Tip Calculator </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="container" id="topContainer">
+            <div class="title">Bill Total</div>
+            <div class="inputContainer">
+                <span>Rs.</span>
+                <input type="text"
+                    onkeyup="calculate()"
+                    name="bill" 
+                    id="billAmount"
+                    placeholder="0.00">
+            </div>
+        </div>
+        <div class="container" id="midContainer">
+            <div class="title">Tip percentage</div>
+            <div class="inputContainer">
+                <span>%</span>
+                <input type="text"
+                    onkeyup="calculate()" 
+                    name="tip" 
+                    id="tipPercentage"
+                    placeholder="10">
+            </div>
+        </div>
+        <div class="container" id="bottomContainer">
+            <div class="splitContainer">
+            <div class="title">Person</div>
+            <div class="controls">
+                <span class="buttonContainer">
+                    <button class="splitButton" onclick="increment()">
+                        <span class="buttontext">+</span>
+                    </button>
+                </span>
+                <span class="splitAmount" id="numberOfPeople">1</span>
+                <span class="buttonContainer">
+                    <button class="splitButton" onclick="decrement()">
+                        <span class="buttontext">-</span>
+                    </button>
+                </span>
+            </div>
+            </div>
+            <div class="totalContainer">
+                <div class="title">Total Amount</div>
+                <div class="total" id="perPersonTotal">Rs. 0.00</div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
