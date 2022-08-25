@@ -10,4 +10,5 @@ There are some projects created by me using HTML, CSS and JS for learning.
 | 4   | Multiplication App          | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Multiplication%20App/)              |
 | 5   | Password Generator          | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Password%20Generator/)              |
 | 6   | Real Time Character Counter | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Real%20Time%20Character%20Counter/) |
-| 6   | Tip-Calculator              | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Tip-Calculator/)                    |
+| 7   | Tip-Calculator              | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Tip-Calculator/)                    |
+| 8   | Sticky Navbar               | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Sticky%20Navbar/)                   |
