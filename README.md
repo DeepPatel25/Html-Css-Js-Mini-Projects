@@ -12,3 +12,5 @@ There are some projects created by me using HTML, CSS and JS for learning.
 | 6   | Real Time Character Counter | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Real%20Time%20Character%20Counter/) |
 | 7   | Tip-Calculator              | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Tip-Calculator/)                    |
 | 8   | Sticky Navbar               | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Sticky%20Navbar/)                   |
+| 9   | Random Color Generator      | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Random%20Color%20Generator/)        |
+| 10  | Heart Trail Animation       | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Heart%20Trail%20Animation/)         |
