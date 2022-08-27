@@ -14,3 +14,5 @@ There are some projects created by me using HTML, CSS and JS for learning.
 | 8   | Sticky Navbar               | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Sticky%20Navbar/)                   |
 | 9   | Random Color Generator      | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Random%20Color%20Generator/)        |
 | 10  | Heart Trail Animation       | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Heart%20Trail%20Animation/)         |
+| 11  | Video Trailer Popup         | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Video%20Trailer%20Popup/)           |
+| 12  | Blurred Background Popup    | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Blurred%20Background%20Popup/)      |
