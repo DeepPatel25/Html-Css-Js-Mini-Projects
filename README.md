@@ -16,3 +16,5 @@ There are some projects created by me using HTML, CSS and JS for learning.
 | 10  | Heart Trail Animation       | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Heart%20Trail%20Animation/)         |
 | 11  | Video Trailer Popup         | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Video%20Trailer%20Popup/)           |
 | 12  | Blurred Background Popup    | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Blurred%20Background%20Popup/)      |
+| 13  | Bg Image Scroll Effect      | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Bg%20Image%20Scroll%20Effect/)      |
+| 14  | Drum Kit                    | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Drum%20Kit/)                        |
