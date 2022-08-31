@@ -18,3 +18,6 @@ There are some projects created by me using HTML, CSS and JS for learning.
 | 12  | Blurred Background Popup    | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Blurred%20Background%20Popup/)      |
 | 13  | Bg Image Scroll Effect      | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Bg%20Image%20Scroll%20Effect/)      |
 | 14  | Drum Kit                    | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Drum%20Kit/)                        |
+| 15  | Random Photos               | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Random%20Photos/)                   |
+| 16  | Image Slider                | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Image%Slider/)                      |
+| 17  | Dark Mode Toggle            | [View](https://deeppatel25.github.io/Html-Css-Js-Mini-Projects/Dark%20Mode%20Toggle/)              |
